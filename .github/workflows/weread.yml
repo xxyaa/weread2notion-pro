@@ -1,4 +1,5 @@
 name: weread note sync
+on: {}
 
 on:
   workflow_dispatch:
