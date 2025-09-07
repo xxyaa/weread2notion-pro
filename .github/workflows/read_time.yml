@@ -1,5 +1,7 @@
 name: read time sync
 
+on: {}
+
 on:
   workflow_dispatch:
   schedule:
